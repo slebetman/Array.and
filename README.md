@@ -4,7 +4,7 @@ Implement and method for javascript arrays to merge arrays.
 
 ## Installation
 
-    npm install array.stride
+    npm install array.and
 
 ## Usage
 
