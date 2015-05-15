@@ -1,4 +1,4 @@
-# array.stride
+# array.and
 
 Implement and method for javascript arrays to merge arrays.
 
