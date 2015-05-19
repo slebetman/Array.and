@@ -8,8 +8,16 @@ Implement and method for javascript arrays to merge arrays.
 
 ## Usage
 
-Simply require this module. Unlike most node modules, array.and doesn't export anything.
-Instead it modifies the `Array` prototype to implement a new method: `.and()`.
+In node.js simply require this module. Unlike most node modules, array.stride doesn't 
+export anything. Instead it modifies the `Array` prototype to implement a new method: 
+`.and()`.
+
+	require('array.and');
+	
+In the browser simply include it. There are no node.js specific code used in the module. 
+Either copy/paste the code into your own source or inclde it in a script tag:
+
+	<script src="array.and.js"></script>
 
 ## Syntax
 
