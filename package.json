@@ -3,7 +3,8 @@
 	"description" : "Implement and method for javascript arrays to merge arrays together",
 	
 	"author" : "Adly Abdullah <slebetman@gmail.com>",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
+	"license" : "BSD-2-Clause",
 	"main" : "array.and.js",
 	
 	"repository" : {
